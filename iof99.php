@@ -1,5 +1,5 @@
 1.4
-อัพเดตวันที่ 19/02/22
+Update Date 19/02/22
 
 🔖▪️🇹🇭 Free TH-CSL
 🔖▪️🇹🇭 Free TH-GAME
