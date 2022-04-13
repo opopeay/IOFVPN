@@ -7,6 +7,7 @@
 ✔️3.เพิ่มเซิฟ SG-FAST 3 Server
 ✔️4.เพิ่มเซิฟ DE,FR,ID,US
 
+🔖▪️🇹🇭 Free Huawei Cloud 2 Server
 🔖▪️🇹🇭 Free ViP_CAT 3 Server
 🔖▪️🇹🇭 Free TH-GAME
 🔖▪️🇹🇭 Free TCC Technology 2 Server
