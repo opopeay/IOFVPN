@@ -23,7 +23,7 @@
 🔖▪️🇸🇬 VIP SG 20 Server
 🔖▪️🇸🇬 SG_Digital 5 Server
 🔖▪️🇭🇰 HK▪️🇮🇳 IN 2 Server▪️🇨🇦 CA
-🔖▪️🇯🇵 JP▪️🇩🇪 DE▪️🇰🇷 KR
+🔖▪️🇯🇵 JP▪️🇩🇪 DE 2 Server▪️🇰🇷 KR
 
 🛒Super_ViP สำหรับเช่า 50 บ./เดือน💲
 
