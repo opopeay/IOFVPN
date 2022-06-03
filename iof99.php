@@ -1,4 +1,4 @@
-3.0
+3.1
 อัพเดตวันที่ 02/06/2022
 
 ✔️ เพิ่มเซิฟ CAT-IDC
@@ -21,7 +21,7 @@
 🔖▪️🇹🇭 Free TH-GAME
 🔖▪️🇹🇭 Free TCC Technology 2 Server
 🔖▪️🇸🇬 VIP SG 20 Server
-🔖▪️🇸🇬 SG_Digital 5 Server
+🔖▪️🇸🇬 SG_Digital 4 Server
 🔖▪️🇭🇰 HK▪️🇮🇳 IN 2 Server▪️🇨🇦 CA
 🔖▪️🇯🇵 JP▪️🇩🇪 DE 2 Server▪️🇰🇷 KR
 
