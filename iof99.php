@@ -1,5 +1,8 @@
-3.1
-อัพเดตวันที่ 02/06/2022
+3.2
+อัพเดตวันที่ 05/06/2022
+
+📝แก้เซิฟ Free ViP_CAT4 ให้แรงขึ้น
+📝แก้ไฟล์ใหม่เซิฟ CA,DE,HK,IN
 
 ✅กดเชื่อมต่อเน็ตแล้ว อย่าลืมกดเพิ่มเวลาในการเชื่อมต่อด้วยนะคับ
 ✅กดเพิ่มเวลาในการเชื่อมต่อครั้งละ 6 ชม.
@@ -9,15 +12,15 @@
 ✅แล้วกดเพิ่มเวลา ลองทำตามกันดูคับ
 
 🔖▪️🇹🇭 Free VIP_GAMING
-🔖▪️🇹🇭 Free 3BB Fiber
-🔖▪️🇹🇭 Free True Fiber 
+🔖▪️🇹🇭 Free 3BB เน็ตบ้าน
+🔖▪️🇹🇭 Free True เน็ตบ้าน
 🔖▪️🇹🇭 Free ViP_CAT 4 Server
 🔖▪️🇹🇭 Free TH-GAME
 🔖▪️🇹🇭 Free TCC Technology 2 Server
 🔖▪️🇸🇬 VIP SG 20 Server
 🔖▪️🇸🇬 SG_Digital 4 Server
-🔖▪️🇭🇰 HK▪️🇮🇳 IN 2 Server▪️🇨🇦 CA
-🔖▪️🇯🇵 JP▪️🇩🇪 DE 2 Server▪️🇰🇷 KR
+🔖▪️🇭🇰 HK▪️🇮🇳 IN▪️🇨🇦 CA
+🔖▪️🇩🇪 DE
 
 🛒Super_ViP สำหรับเช่า 50 บ./เดือน💲
 
