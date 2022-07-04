@@ -1,7 +1,7 @@
 3.6
 อัพเดตวันที่ 26/06/2022
 
-✚✚✚เพิ่ม เซิฟ FreeViP_GAME_02 สำหรับเล่นเกม
+🌐เพิ่มเซิฟ TH-BANGMOG สำหรับเล่นเกม
 ✚✚✚เพิ่ม เซิฟ JP,FR,CA,UK,US,
 ✚✚✚แก้ไข DNS ใหม่ทั้งหมด
 📝อัพไฟล์ใหม่ SG_LINODE 2 Server
@@ -14,6 +14,7 @@
 ✅กดเชื่อมต่อเน็ต เชื่อมต่อแล้วให้รอ 1-2 นาที
 ✅แล้วกดเพิ่มเวลา ลองทำตามกันดูคับ
 
+🔖▪️🇹🇭 TH-BANGMOD 
 🔖▪️🇹🇭 Free VIP_GAME_02
 🔖▪️🇹🇭 Free VIP_GAMING
 🔖▪️🇹🇭 Free 3BB เน็ตบ้าน
@@ -22,8 +23,7 @@
 🔖▪️🇹🇭 Free TH-GAME
 🔖▪️🇹🇭 Free TCC Technology 2 Server
 🔖▪️🇸🇬 VIP SG 20 Server
-🔖▪️🇸🇬 SG_Digital 4 Server
-🔖▪️🇸🇬 SG_LINODE 2 Server
+🔖▪️🇸🇬 SG_DO 3 Server
 🔖▪️🇯🇵 JP▪️🇮🇳 IN ▪️🇨🇦 CA
 🔖▪️🇩🇪 DE▪️🇳🇱 NL ▪️🇬🇧 UK
 
