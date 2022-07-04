@@ -25,7 +25,7 @@
 🔖▪️🇸🇬 SG_Digital 4 Server
 🔖▪️🇸🇬 SG_LINODE 2 Server
 🔖▪️🇯🇵 JP▪️🇮🇳 IN ▪️🇨🇦 CA
-🔖▪️🇩🇪 DE▪️🇳🇱 NL ▪️
+🔖▪️🇩🇪 DE▪️🇳🇱 NL ▪️🇬🇧 UK
 
 🛒Super_ViP สำหรับเช่า 50 บ./เดือน💲
 
