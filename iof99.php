@@ -1,7 +1,7 @@
-4.4
-อัพเดตวันที่ 09/08/2022
+4.5
+อัพเดตวันที่ 18/08/2022
 
-🎉เพิ่มเซิฟเวอร์ SG_OVH แรงๆ
+💥เพิ่มเซิฟเวอร์ CAT-Bangrak สายเกมส์-ลื่นไหล
 
 ❗โปรดอ่าน❗
 ✅กดเชื่อมต่อเน็ตแล้ว อย่าลืมกดเพิ่มเวลาในการเชื่อมต่อด้วยนะคับ
@@ -11,22 +11,23 @@
 ✅กดเชื่อมต่อเน็ต เชื่อมต่อแล้วให้รอ 10-15 วินาที
 ✅แล้วกดเพิ่มเวลา ลองทำตามกันดูคับ
 
+🔖▪️🇹🇭 CAT-Bangrak 1 Server
 🔖▪️🇹🇭 CAT-TOWER 10 Server
 🔖▪️🇹🇭 TH-BANGMOD 
+🔖▪️🇹🇭 TH-Sheeplink
 🔖▪️🇹🇭 Free VIP_GAME_02
 🔖▪️🇹🇭 Free VIP_GAMING
 🔖▪️🇹🇭 Free True เน็ตบ้าน
 🔖▪️🇹🇭 Free ViP_CAT 5 Server
-🔖▪️🇹🇭 Free TH-GAME
-🔖▪️🇹🇭 Free TCC Technology 2 Server
+
 🔖▪️🇸🇬 VIP SG 20 Server
 🔖▪️🇸🇬 SG_OVH 1 Server
 
 🛒Super_ViP สำหรับเช่า 50 บ./เดือน💲
 
-🏷️เล่นเกมส์ให้เลือก VIP_GAMING,TH-GAME
-🏷️ดูยูทูปให้ให้เลือก VIP-SG,TrueFiber
-🏷️ใช้งานทั่วไปให้เลือก CAT-IDC,TCC,CsLoxinfo
+🏷️เล่นเกมส์ให้เลือก VIP_GAMING,VIP_GAME_02
+🏷️ดูยูทูปให้ให้เลือก VIP-SG,SG_OVH_TrueFiber
+🏷️ใช้งานทั่วไปให้เลือก CAT-Bangrak,CAT-Tower
 _____________________________________
 ✅ควรเลือกเซิฟให้ตรงกับการใช้งาน
 🔔Reboot Server 03:30 น.
