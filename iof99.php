@@ -1,31 +1,31 @@
 4.6
 อัพเดตวันที่ 18/08/2022
 
-💥เพิ่มเซิฟ CAT-Bangrak เร็วแรงลื่นๆ
+💥เพิ่มเซิฟ CAT-Bangrak เร็วแรงลื่นไหล-เล่นเกมได้
 
 ✅กดเชื่อมต่อเน็ตแล้ว อย่าลืมกดเพิ่มเวลาในการเชื่อมต่อด้วยนะคับ
 ✅กดเพิ่มเวลาในการเชื่อมต่อครั้งละ 6 ชม.
 ✅สะสมสูงสุด 48 ชม.เพื่อการใช้งานอย่างต่อเนื่อง
 ✅วิธีแก้กดเพิ่มเวลาไม่ได้ ให้ออกจากแอพก่อนแล้วค่อยเข้าใหม่
-✅กดเชื่อมต่อเน็ต เชื่อมต่อแล้วให้รอ 1-2 นาที
+✅กดเชื่อมต่อเน็ต เชื่อมต่อแล้วให้รอ 10-20 วินาที
 ✅แล้วกดเพิ่มเวลา ลองทำตามกันดูคับ
 
+🔖▪️🇹🇭 Free CAT-Bangrak
+🔖▪️🇹🇭 Free CAT-Tower
 🔖▪️🇹🇭 Free VIP_GAMING
-🔖▪️🇹🇭 Free 3BB Fiber
+🔖▪️🇹🇭 Free VIP_GAME_02
 🔖▪️🇹🇭 Free True Fiber 
-🔖▪️🇹🇭 Free ViP_CAT 4 Server
-🔖▪️🇹🇭 Free TH-GAME
-🔖▪️🇹🇭 Free TCC Technology 2 Server
+🔖▪️🇹🇭 Free ViP_CAT 5 Server
+🔖▪️🇹🇭 Free TH-Sheeplink
+🔖▪️🇹🇭 Free TH-BANGMOD
 🔖▪️🇸🇬 VIP SG 20 Server
-🔖▪️🇸🇬 SG_Digital 5 Server
-🔖▪️🇭🇰 HK▪️🇮🇳 IN▪️️🇨🇦 CA
-🔖▪️🇩🇪 DE
+🔖▪️🇸🇬 SG_OVH 1 Server
 
 🛒Super_ViP สำหรับเช่า 50 บ./เดือน💲
 
-🏷️เล่นเกมส์ให้เลือก VIP_GAMING,TH-GAME
-🏷️ดูยูทูปให้ให้เลือก VIP-SG,3BBFiber,TrueFiber
-🏷️ใช้งานทั่วไปให้เลือก CAT-IDC,TCC
+🏷️เล่นเกมส์ให้เลือก VIP_GAMING,CAT-Bangrak
+🏷️ดูยูทูปให้ให้เลือก VIP-SG,SG-OVH,TrueFiber
+🏷️ใช้งานทั่วไปให้เลือก CAT-Tower,TrueFiber
 _____________________________________
 ✅ควรเลือกเซิฟให้ตรงกับการใช้งาน
 🔔Reboot Server 03:30 น.
