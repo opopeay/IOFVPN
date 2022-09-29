@@ -15,7 +15,7 @@
 💢TH-GENERAL 1 Server
 💢VIP_SG_OVH 1 Server
 💢VIP_SG 20 Server
-💢SUPER_VIP
+👑SUPER_VIP สำหรับเช่าติดต่อแอดมิน
 
 ✅ควรเลือกเซิฟให้ตรงกับการใช้งาน
 🔔Reboot Server 03:30 น.
